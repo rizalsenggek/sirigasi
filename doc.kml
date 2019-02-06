@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>D.I. Kajar 2C.kmz</name>
+	<open>1</open>
+	<StyleMap id="stylemap_id5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style36">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style9">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style20">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style11">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style22">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style7">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style19">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style25">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style39</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style35">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style29">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style51">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style50">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style15">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style1">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style28">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style47</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style10">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style49">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style43">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style5">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style31">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style52">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style48">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="style23">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="style14">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style16">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style21">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style18">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style51</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style3">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style40">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style30">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style6">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style2">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style47">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style46</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style4">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style0">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style37</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style17">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style44">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style49</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style44</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style37">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style13">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style38">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style45">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style24">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="style27">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style39">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style42">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style32">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style46">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style52</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style48</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style12">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style8">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>D.I. Kajar 2C</name>
+		<open>1</open>
+		<Placemark>
+			<name>Box Terakhir</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id28</styleUrl>
+			<Point>
+				<coordinates>112.6192422838373,-7.926554760221563,524.407532</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saluran Sekunder (S3)</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id27</styleUrl>
+			<Point>
+				<coordinates>112.618545,-7.926151,526.505493</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jembatan Jalan Raya</name>
+			<open>1</open>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>112.6171879749745,-7.924588965252042,528.276855</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bangunan Sadap</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id25</styleUrl>
+			<Point>
+				<coordinates>112.6160958616707,-7.923704698371512,530.317444</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Terjunan</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id24</styleUrl>
+			<Point>
+				<coordinates>112.6154689310111,-7.923309478114653,531.96344</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bangunan Sadap</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id23</styleUrl>
+			<Point>
+				<coordinates>112.6143332236319,-7.922814095670407,532.8671880000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bangunan Sadap</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id22</styleUrl>
+			<Point>
+				<coordinates>112.6137475457429,-7.922618489505432,534.258667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saluran Sekunder (S2)</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id20</styleUrl>
+			<Point>
+				<coordinates>112.613003,-7.922282,534.073425</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saluran Sekunder (S1)</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id19</styleUrl>
+			<Point>
+				<coordinates>112.6130090095103,-7.922191992402077,534.194824</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bangunan Bagi</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id17</styleUrl>
+			<Point>
+				<coordinates>112.6130106991114,-7.92217408161044,533.949646</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bangunan Sadap</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id16</styleUrl>
+			<Point>
+				<coordinates>112.6127174310921,-7.922033540563804,533.4823</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Terjunan</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id14</styleUrl>
+			<Point>
+				<coordinates>112.612396256283,-7.921898454285094,532.610046</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bangunan Sadap</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id13</styleUrl>
+			<Point>
+				<coordinates>112.6123872020726,-7.921892764536628,531.64032</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saluran Primer (P5)</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id12</styleUrl>
+			<Point>
+				<coordinates>112.611824,-7.921654,531.002808</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bangunan Sadap</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id11</styleUrl>
+			<Point>
+				<coordinates>112.6117946531974,-7.921637116513791,530.957214</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bangunan Sadap</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id10</styleUrl>
+			<Point>
+				<coordinates>112.6112169743057,-7.921387102650309,529.706665</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Terjunan</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id9</styleUrl>
+			<Point>
+				<coordinates>112.6109057028269,-7.921205429354085,528.932861</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Terjunan</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id8</styleUrl>
+			<Point>
+				<coordinates>112.6108047406932,-7.921114615193932,530.015564</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pengambilan Bebas</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id7</styleUrl>
+			<Point>
+				<coordinates>112.6104672035095,-7.920781955892729,528.537781</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saluran Primer (P4)</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id6</styleUrl>
+			<Point>
+				<coordinates>112.6100373349007,-7.920429020434803,526.513611</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jembatan Jalan Raya</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id5</styleUrl>
+			<Point>
+				<coordinates>112.6097437942883,-7.920260387531209,526.193665</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saluran Primer (P3)</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id4</styleUrl>
+			<Point>
+				<coordinates>112.608508,-7.919468,524.140503</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saluran Primer (P2)</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id3</styleUrl>
+			<Point>
+				<coordinates>112.607501,-7.917874,520.439026</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pelimpah Samping</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id2</styleUrl>
+			<Point>
+				<coordinates>112.6069286815345,-7.917541724033193,517.600342</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saluran Primer (P1)</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id1</styleUrl>
+			<Point>
+				<coordinates>112.606701,-7.917264000000001,515.579285</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bendung</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id0</styleUrl>
+			<Point>
+				<coordinates>112.6066716877736,-7.91722500895309,496.223694</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saluran Sekunder</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					112.6130066442175,-7.922182454433061,0 112.6129876612193,-7.922279419388499,0 112.6131331580741,-7.922357634030218,0 112.613380364525,-7.922481050019782,0 112.6137273140984,-7.92262303149683,0 112.6138574471862,-7.922661714853356,0 112.6140436902969,-7.922720356215375,0 112.6142511129155,-7.922802342558579,0 112.6145122346429,-7.922869079747388,0 112.6147057568534,-7.922950311374575,0 112.6149224757583,-7.923031527666584,0 112.6150316460084,-7.923092721724844,0 112.6152056458979,-7.923170466773874,0 112.6153906821446,-7.923273211502414,0 112.6156782787263,-7.923439280785998,0 112.6157932031543,-7.923509641409923,0 112.6160943861818,-7.92371679501203,0 112.6162698527603,-7.923842795742059,0 112.6164047712946,-7.92392967590125,0 112.6165045305088,-7.924006519434008,0 112.6166116900714,-7.924095079011165,0 112.6167020784469,-7.924187734028317,0 112.6168821116673,-7.924353057288619,0 112.6169799918793,-7.92444744830699,0 112.6170644628936,-7.924504915001202,0 112.6171488729147,-7.924562340193165,0 112.617231417342,-7.924637290306651,0 112.6173349122552,-7.924709273161572,0 112.6174407609788,-7.92478199846002,0 112.6175477147247,-7.924857634782653,0 112.6181009408908,-7.925257318388971,0 112.6177701104557,-7.92570479351437,0 112.6178965176976,-7.92578065699758,0 112.6181321897872,-7.925920992624273,0 112.6182830545417,-7.9260106964563,0 112.6183725929822,-7.926062617296387,0 112.618458216757,-7.92610923179547,0 112.6186303480679,-7.926214300031854,0 112.6187064758177,-7.926259329971267,0 112.6188582223665,-7.926345326433826,0 112.6189893668715,-7.926413818519162,0 112.6191240000305,-7.926492664811432,0 112.6191771071194,-7.926522932545326,0 112.6192328775432,-7.926565079302162,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Saluran Primer</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					112.606667289936,-7.917232846573194,0 112.606765550796,-7.917359114233418,0 112.6068409359702,-7.917452740336824,0 112.6068919910367,-7.917518511982692,0 112.6069384065873,-7.917563193565488,0 112.6070128982746,-7.917611034241023,0 112.6070889385766,-7.917638892760271,0 112.6071648919619,-7.917655837375818,0 112.6072703087577,-7.91768739574472,0 112.6073606136598,-7.917713874930087,0 112.6074086472026,-7.917749360924899,0 112.6074562480455,-7.917807941744934,0 112.6074787099631,-7.917862527204705,0 112.6075223397386,-7.917903219574394,0 112.6075540679919,-7.917944260071644,0 112.6075902246322,-7.918004469719499,0 112.6076204937415,-7.918059516912137,0 112.6076540831813,-7.918100135946381,0 112.6077050106043,-7.918139219326169,0 112.6077408210582,-7.918176169789492,0 112.6077572754668,-7.91821090968238,0 112.6077670244846,-7.918251273958631,0 112.6077862779382,-7.918302532855743,0 112.6078271157603,-7.918328359601723,0 112.6078701344301,-7.91835174965044,0 112.607893602711,-7.918377512253393,0 112.6079178952528,-7.918489707338069,0 112.6079098009264,-7.918546420281183,0 112.6079232126279,-7.918626794226602,0 112.6079366331484,-7.918673339745167,0 112.6079751106585,-7.918724726886202,0 112.6080520225833,-7.918816945988965,0 112.6080998514811,-7.918890007272813,0 112.6081702664335,-7.91901599743444,0 112.608240087072,-7.919164383334563,0 112.6082867654261,-7.919263325161768,0 112.6083430462034,-7.919323093245819,0 112.6084318110582,-7.919395243452668,0 112.6084943068952,-7.919469718353471,0 112.6085725327916,-7.919576144865482,0 112.6086950988506,-7.919686292119588,0 112.6087724145413,-7.919743763131887,0 112.6089270112776,-7.919821418085351,0 112.6090236213592,-7.919874716081516,0 112.6090993708243,-7.919924259710115,0 112.6092110258739,-7.919973257793558,0 112.6093197874834,-7.920028119832869,0 112.6094266106916,-7.920092406872517,0 112.6094987395956,-7.920131755566875,0 112.6097348737348,-7.920266713202015,0 112.6098677544459,-7.920343991583686,0 112.6100339340568,-7.920442077548851,0 112.6102090387135,-7.920578194604203,0 112.6104695006428,-7.920797898855118,0 112.6106324961418,-7.920967099061917,0 112.6107832243846,-7.921112501668665,0 112.6109021262064,-7.921219016416556,0 112.6109360551485,-7.921252386813471,0 112.6110925798443,-7.921329389406805,0 112.611255427657,-7.921421151893563,0 112.6114351268964,-7.92148431640171,0 112.6116580189198,-7.921584481007628,0 112.6119559578268,-7.921723988664817,0 112.6121312580714,-7.921802268108155,0 112.6122722393282,-7.921858075791062,0 112.612444089648,-7.921926401728586,0 112.6126780582301,-7.92202327556606,0 112.6127945683941,-7.922078098375486,0 112.6129051683517,-7.922131013425918,0 112.6130049436213,-7.922182122603708,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
